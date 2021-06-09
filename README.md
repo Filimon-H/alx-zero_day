@@ -1,1 +1,1 @@
-ssdddthis is git project
+this is git project okay
